@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/smrt/static/css/main.300ce04a.chunk.css",
+    "main.js": "/github.io/smrt/static/js/main.412f36bd.chunk.js",
+    "main.js.map": "/github.io/smrt/static/js/main.412f36bd.chunk.js.map",
+    "runtime-main.js": "/github.io/smrt/static/js/runtime-main.7f439b36.js",
+    "runtime-main.js.map": "/github.io/smrt/static/js/runtime-main.7f439b36.js.map",
+    "static/js/2.07d0dcec.chunk.js": "/github.io/smrt/static/js/2.07d0dcec.chunk.js",
+    "static/js/2.07d0dcec.chunk.js.map": "/github.io/smrt/static/js/2.07d0dcec.chunk.js.map",
+    "index.html": "/github.io/smrt/index.html",
+    "precache-manifest.67179172d41c2706246e7ab2790837f5.js": "/github.io/smrt/precache-manifest.67179172d41c2706246e7ab2790837f5.js",
+    "service-worker.js": "/github.io/smrt/service-worker.js",
+    "static/css/main.300ce04a.chunk.css.map": "/github.io/smrt/static/css/main.300ce04a.chunk.css.map",
+    "static/js/2.07d0dcec.chunk.js.LICENSE.txt": "/github.io/smrt/static/js/2.07d0dcec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f439b36.js",
+    "static/js/2.07d0dcec.chunk.js",
+    "static/css/main.300ce04a.chunk.css",
+    "static/js/main.412f36bd.chunk.js"
+  ]
+}
